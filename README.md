@@ -7,7 +7,7 @@
 ---
 ### 🧐 About Me
 
-I am a motivated and ambitious Python Developer with 2 years of experience, constantly seeking opportunities to enhance my skills and take on new challenges. My expertise lies in programming in Python, Django framework, machine learning, and data visualization. I am passionate about developing innovative solutions that solve real-world problems.
+I am a motivated and ambitious Python Developer with 3 years of experience, constantly seeking opportunities to enhance my skills and take on new challenges. My expertise lies in programming in Python, Django framework, machine learning, and data visualization. I am passionate about developing innovative solutions that solve real-world problems.
 
 🤝 I value good communication and teamwork, and I am comfortable admitting my mistakes and learning from them.
 
